@@ -1,0 +1,2 @@
+hello my name is hammad
+this program is running multiple commands
